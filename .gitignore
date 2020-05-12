@@ -1,0 +1,10 @@
+# i don't want these to be pushed in github
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
